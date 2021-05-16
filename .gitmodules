@@ -1,0 +1,6 @@
+[submodule "DlgSystem"]
+	path = DlgSystem
+	url = https://gitlab.com/NotYetGames/DlgSystem.git
+[submodule "Plugins/DlgSystem"]
+	path = Plugins/DlgSystem
+	url = https://gitlab.com/NotYetGames/DlgSystem.git
